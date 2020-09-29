@@ -1,4 +1,4 @@
-package ca.gbc.petcliniclab.model;
+package model;
 
 public class PetType {
 
