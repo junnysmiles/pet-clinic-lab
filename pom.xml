@@ -14,7 +14,7 @@
     </parent>
     <groupId>ca.gbc</groupId>
     <artifactId>pet-clinic-lab</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>pet-clinic-lab</name>
     <description>Demo project for Spring Boot</description>
 
@@ -24,7 +24,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/junnysmiles/pet-clinic-lab.git</developerConnection>
-      <tag>pet-clinic-lab-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <build>
